@@ -47,11 +47,11 @@ spring.mvc.view.suffix: .jsp
 ## Lombox 1.18.34
 ```
 <dependency>
-		<groupId>org.projectlombok</groupId>
-		<artifactId>lombok</artifactId>
-		<version>1.18.34</version>
-		<scope>provided</scope>
-	</dependency>
+	<groupId>org.projectlombok</groupId>
+	<artifactId>lombok</artifactId>
+	<version>1.18.34</version>
+	<scope>provided</scope>
+</dependency>
 ```
 
 
