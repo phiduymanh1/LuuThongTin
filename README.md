@@ -35,7 +35,7 @@ spring.mvc.view.suffix: .jsp
 </dependency>
 ```
 
-## Lombox
+## Lombox 1.18.24
 ```
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -44,6 +44,16 @@ spring.mvc.view.suffix: .jsp
     <scope>provided</scope>
 </dependency>
 ```
+## Lombox 1.18.34
+```
+<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>1.18.34</version>
+		<scope>provided</scope>
+	</dependency>
+```
+
 
 ## MSSQL JDBC
 ``` 
