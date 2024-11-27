@@ -95,7 +95,7 @@ spring.mvc.view.suffix: .jsp
     <artifactId>spring-boot-starter-validation</artifactId>
 </dependency>
 ```
-```
+
 ## Gson
 ``` 
 <dependency>
