@@ -113,3 +113,19 @@ spring.mvc.view.suffix: .jsp
 ``` 
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 ```
+## Datasource Proxy
+``` 
+<dependency>
+            <groupId>com.github.gavlyukovskiy</groupId>
+            <artifactId>datasource-proxy-spring-boot-starter</artifactId>
+            <version>1.9.2</version>
+</dependency>
+```
+## Validation
+``` 
+<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-validation</artifactId>
+</dependency>
+```
+
